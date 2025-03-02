@@ -56,11 +56,11 @@ if __name__ == "__main__":
 
     final_user_input = interacting_agent.chat_with_user(user_query)
     structured_criteria = extract_criteria_agent.extract_criteria(final_user_input)
-    print(structured_criteria)
+    # print(structured_criteria)
     estate_dict = exploring_agent.get_estates_list(structured_criteria)
-    print(f'estate dict :{estate_dict}')
+    # print(f'estate dict :{estate_dict}')
     final_recommendations = recommendation_agent.generate_recommendation(final_user_input, estate_dict)
-    print(f'final recommendations {final_recommendations}')
+    # print(f'final recommendations {final_recommendations}')
     Generate_response(final_recommendations)
 
     # I want a condo with 2-bedroom and one bathroom apartment in Mid-City with a budget of $500K.
