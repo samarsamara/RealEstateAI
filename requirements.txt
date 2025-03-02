@@ -1,0 +1,12 @@
+qdrant-client
+tiktoken
+numpy
+pandas
+torch
+transformers
+faiss-cpu
+sentence-transformers
+tqdm
+langchain_openai
+json
+os
