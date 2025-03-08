@@ -1,0 +1,36 @@
+AI: What kind of property are you looking for in Los Angeles?
+User: I want a singlefamily apartment with three bedroom and two bathroom near the city center with a budget of $1M.
+AI: Searching for a single-family home with three bedrooms and two bathrooms near the city center within a $1M budget.
+============================================================
+                🏡 Property Recommendations 🏡                
+============================================================
+
+🔹 Rank: 1 | Score: 9
+------------------------------------------------------------
+🏠 Description: 716 Academy Rd, Sold for $980,000. Single-family home built in 1985 with 3 bedrooms and 2 bathrooms. Features central heating and air, a garage, and laundry in garage/inside. Appliances: Dishwasher, Disposal, Microwave, Refrigerator, Washer, Dryer. Located in Downtown LA, zip code 90012. Elementary School: Score 7, Distance 0.1 miles. Middle School: Score 5, Distance 1.0 miles. High School: Score 4, Distance 3.0 miles.
+📝 Explanation: This property is ranked first due to its combination of desirable features, including a single-family home layout, extensive appliances, central heating and air, proximity to highly rated schools, and an ideal location in Downtown LA.
+============================================================
+
+🔹 Rank: 2 | Score: 8
+------------------------------------------------------------
+🏠 Description: 1035 Figueroa Ter APT 23, Sold for $995,000. Townhouse built in 2018 with 3 bedrooms and 3 bathrooms. Features central heating and air, assigned and covered parking (Garage - Two Door, Side By Side, Guest, Detached Carport), and stackable laundry. Appliances: Dishwasher, Disposal, Microwave, Refrigerator, Oven, Washer, Dryer. Located in Downtown LA, zip code 90012. Elementary School: Score 6, Distance 0.5 miles. Middle School: Score 5, Distance 2.0 miles. High School: Score 3, Distance 1.2 miles.
+📝 Explanation: Ranked second due to its modern build, additional bathroom, and comprehensive appliance offerings. However, its slightly lower school proximity and higher price compared to rank 1 place it in this position.
+============================================================
+
+🔹 Rank: 3 | Score: 7
+------------------------------------------------------------
+🏠 Description: 1035 Figueroa Ter APT 1, Sold for $975,000. Townhouse built in 2018 with 3 bedrooms and 3 bathrooms. Features central heating and air, gated parking, and stackable laundry. Appliances: Dishwasher, Microwave, Washer. Located in Downtown LA, zip code 90012. Elementary School: Score 6, Distance 0.5 miles. Middle School: Score 5, Distance 2.0 miles. High School: Score 3, Distance 1.2 miles.
+📝 Explanation: This property is ranked third due to its similar layout to rank 2 but with fewer appliances and gated parking instead of assigned parking, making it slightly less appealing overall.
+============================================================
+
+🔹 Rank: 4 | Score: 6
+------------------------------------------------------------
+🏠 Description: 1809 Bouett St, Sold for $900,000. Single-family home built in 1971 with 6 bedrooms and 4 bathrooms. Parking: Garage - Attached. No heating, cooling, or appliances listed. Located in Downtown LA, zip code 90012. Elementary School: Score 7, Distance 0.3 miles. Middle School: Score 5, Distance 1.1 miles. High School: Score 4, Distance 3.1 miles.
+📝 Explanation: This property is ranked fourth due to its larger size and lower price, but the lack of heating, cooling, and listed appliances reduces its desirability compared to higher-ranked properties.
+============================================================
+
+🔹 Rank: 5 | Score: 4
+------------------------------------------------------------
+🏠 Description: 121 S Hope St APT 610, Sold for $1,010,000. Condo built in 1980 with 2 bedrooms and 2 bathrooms. Features central heating and air, tandem covered parking, and shared laundry in common area. No appliances listed. Located in Downtown LA, zip code 90012. Elementary School: Score 6, Distance 0.9 miles. Middle School: Score 3, Distance 0.9 miles. High School: Score 3, Distance 0.8 miles.
+📝 Explanation: Ranked last due to its higher price, fewer bedrooms and bathrooms, and lack of in-unit laundry or listed appliances. Additionally, the lower school ratings and distances make it less favorable.
+============================================================
