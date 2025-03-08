@@ -106,7 +106,7 @@ langchain
 
 ## App Architecture:
 
-![Alt Text](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPO_NAME/main/path-to-image.jpg)
+![Alt Text](https://github.com/samarsamara/RealEstateAI/blob/main/Image20250308195141.jpg)
 
 
 
