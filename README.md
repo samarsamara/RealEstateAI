@@ -64,6 +64,12 @@ python RealEstateAI.py
 ## 📦 Project Structure
 ```
 RealEstateAI/
+│── examples/
+│   ├── example1.txt
+│   ├── example2.txt
+│   ├── example3.txt
+│   ├── example4.txt
+│   ├── example5.txt
 ├── Data/
 │   ├── los_angeles.csv
 ├── Code/
