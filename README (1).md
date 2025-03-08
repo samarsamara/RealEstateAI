@@ -1,45 +1,42 @@
-# HomeMatch AI: Your Intelligent Real Estate Assistant 🏠
+# RealEstateAI: Your Intelligent Real Estate Assistant 🏠
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-HomeMatch AI is a cutting-edge real estate recommendation system that leverages advanced Natural Language Processing (NLP) and the power of GPT-3.5 to create personalized property matches. By combining semantic search capabilities with intelligent property analysis, HomeMatch AI transforms the way people find their dream homes.
+RealEstateAI is an intelligent real estate search assistant that helps users find properties that match their specific needs using AI-driven recommendations. By analyzing market data, location trends, and user preferences, RealEstateAI provides personalized property suggestions and insights to optimize real estate decisions.
 
 ## 🌟 Key Features
 
 ### Intelligent Property Matching
 - **Natural Language Understanding**: Simply describe your dream home in plain English
-- **Semantic Search Engine**: Powered by ChromaDB for intelligent property matching
+- **Semantic Search Engine**: Powered by Qdrant for intelligent property matching
 - **Personalized Recommendations**: Tailored suggestions based on your unique preferences
 - **Dynamic Property Descriptions**: AI-generated, engaging property descriptions that highlight relevant features
 
 ### Advanced Technology Stack
 - **LangChain Integration**: Seamless combination of language models and document retrieval
-- **Vector Database**: ChromaDB for efficient similarity search and property matching
-- **GPT-3.5 Language Model**: State-of-the-art natural language processing
-- **Interactive UI**: Built with Gradio for a user-friendly experience
+- **Vector Database**: Qdrant for efficient similarity search and property matching
+- **GPT-4o Language Model**: State-of-the-art natural language processing
 
 ### Data Management
-- **Synthetic Dataset Generation**: Custom-built dataset using LLM technology
+- **Data Source**: Houses that were sold in California in 2020. 
 - **Structured Property Information**: Comprehensive property details including:
   - Property specifications (size, bedrooms, bathrooms)
-  - Neighborhood information
+  - Amenities (schools, schools score)
   - Price points
   - Property descriptions
-  - Image URLs
+ 
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.11 
 - OpenAI API key
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/amirhnazerii/Real-Estate-AI-Agent.git
-cd Real-Estate-AI-Agent
+git clone https://github.com/samarsamara/RealEstateAI.git
+cd RealEstateAI
 ```
 
 2. Install dependencies:
@@ -56,14 +53,9 @@ os.environ['OPENAI_API_KEY'] = 'your-api-key-here'
 
 ### Running the Application
 
-1. Generate the dataset (optional):
-```bash
-jupyter notebook generate_dataset.ipynb
-```
-
 2. Launch the application:
 ```bash
-jupyter notebook app.ipynb
+python RealEstateAI.py
 ```
 
 ## 📦 Project Structure
