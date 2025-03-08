@@ -68,17 +68,16 @@ RealEstateAI/
 │   ├── example1.txt
 │   ├── example2.txt
 │   ├── example3.txt
-│   ├── example4.txt
-│   ├── example5.txt
+│   └── example4.txt
 ├── Data/
-│   ├── los_angeles.csv
+│   └── los_angeles.csv
 ├── Code/
 │   ├── RealEstateAI.py      # Main application script
 │   ├── create_VDBs.py       # create the vector data base
 │   ├── create_embeddings.py       # create the embedding for each data raw
 │   ├── exploring_agent.py      # Agentic RAG
 │   ├── interacting_agent.py    # conversation manager 
-│   ├── recommendation_agent.py       # return the final recommendation for the user
+│   └── recommendation_agent.py       # return the final recommendation for the user
 ├── requirements.txt          # Project dependencies
 └── README.md                # Project documentation
 ```
