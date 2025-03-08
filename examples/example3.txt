@@ -1,0 +1,36 @@
+What kind of property are you looking for in Los Angeles?
+I want a condo with 2-bedroom and one bathroom apartment in West Los Angeles with a budget of $750K.
+AI: Searching for a condo with 2 bedrooms and 1 bathroom in West Los Angeles within a $750K budget.
+============================================================
+                🏡 Property Recommendations 🏡                
+============================================================
+
+🔹 Rank: 1 | Score: 8
+------------------------------------------------------------
+🏠 Description: Address: 1820 S Beverly Glen Blvd APT 107, Sold Price: $750,000, Type: Condo, Year built: 1991, Heating: Central, Cooling: Central Air, Parking: Garage, Bedrooms: 2, Bathrooms: 2, Elementary School Score: 9, Elementary School Distance: 0.7 miles, High School Score: 6, High School Distance: 2.5 miles, Laundry features: Laundry Closet, Zip: 90025, Neighborhood: West Los Angeles.
+📝 Explanation: Ranked highest due to its excellent elementary school score of 9, modern amenities like central heating and cooling, and a competitive price compared to its features.
+============================================================
+
+🔹 Rank: 2 | Score: 8
+------------------------------------------------------------
+🏠 Description: Address: 1260 Armacost Ave APT 206, Sold Price: $750,000, Type: Condo, Year built: 1985, Heating: Forced air, Other, Cooling: Central, Parking: Garage - Attached, Covered, Bedrooms: 2, Bathrooms: 2, Elementary School Score: 5, Elementary School Distance: 0.1 miles, High School Score: 6, High School Distance: 0.1 miles, Appliances included: Dryer, Laundry features: In Unit, Zip: 90025, Neighborhood: West Los Angeles.
+📝 Explanation: Ranked second due to its proximity to schools and convenient in-unit laundry, though the elementary school score of 5 is lower than rank 1.
+============================================================
+
+🔹 Rank: 3 | Score: 7
+------------------------------------------------------------
+🏠 Description: Address: 1250 S Westgate Ave APT 103, Sold Price: $750,000, Type: Condo, Year built: 1988, Heating: Not available, Cooling: Not available, Parking: Carport, Tandem, Bedrooms: 2, Bathrooms: 2, Elementary School Score: 5, Elementary School Distance: 0.1 miles, High School Score: 6, High School Distance: 0.1 miles, Appliances included: Dishwasher, Refrigerator, Laundry features: Inside, Zip: 90025, Neighborhood: West Los Angeles.
+📝 Explanation: Ranked third due to its lack of heating and cooling, which makes it less appealing despite its proximity to schools and decent amenities.
+============================================================
+
+🔹 Rank: 4 | Score: 6
+------------------------------------------------------------
+🏠 Description: Address: 1260 Armacost Ave APT 101, Sold Price: $780,000, Type: Condo, Year built: 1985, Heating: Central, Cooling: Central Air, Parking: Garage, Bedrooms: 2, Bathrooms: 2, Elementary School Score: 5, Elementary School Distance: 0.1 miles, High School Score: 6, High School Distance: 0.1 miles, Laundry features: Inside, Zip: 90025, Neighborhood: West Los Angeles.
+📝 Explanation: Ranked fourth due to its higher price of $780,000, which reduces its value compared to similarly priced properties with better features.
+============================================================
+
+🔹 Rank: 5 | Score: 3
+------------------------------------------------------------
+🏠 Description: Address: 1222 S Westgate Ave APT 202, Sold Price: $925,000, Type: Condo, Year built: 2001, Heating: Central, Cooling: Not available, Parking: Community Structure, Controlled Entrance, Covered, Gated, Guest, Tandem, Bedrooms: 2, Bathrooms: 2, Elementary School Score: 5, Elementary School Distance: 0.2 miles, High School Score: 6, High School Distance: 0.1 miles, Appliances included: Dishwasher, Refrigerator, Laundry features: Laundry Closet, Zip: 90025, Neighborhood: West Los Angeles.
+📝 Explanation: Ranked last due to its significantly higher price of $925,000, lack of cooling, and features that do not justify the premium cost.
+============================================================
