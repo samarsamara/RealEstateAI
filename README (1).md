@@ -110,23 +110,6 @@ langchain
 
 
 
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- OpenAI for providing the GPT-3.5 API
-- LangChain for the framework
-- Gradio team for the UI components
-
-## 📧 Contact
-
-Amir H Nazeri - [@amirhnazerii](https://github.com/amirhnazerii)
-
-Project Link: [https://github.com/amirhnazerii/Real-Estate-AI-Agent](https://github.com/amirhnazerii/Real-Estate-AI-Agent)
+## Notes :
+1. Our AI agent exclusively **searches for properties in Los Angeles**, requiring users to input their **budget, number of bedrooms, and number of bathrooms** as mandatory criteria.
+   
