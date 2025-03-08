@@ -1,7 +1,9 @@
-What kind of property are you looking for in Los Angeles?
-Show me apartments that contain 3 bedrooms (i have kids) and two bathrooms, i want it near schools.
+AI: What kind of property are you looking for in Los Angeles?
+Input Prompt: Show me apartments that contain 3 bedrooms (i have kids) and two bathrooms, i want it near schools.
 AI: What is your budget?
 You: $1.4M
+
+OutPut:
 AI: Got it! Searching for apartments in Los Angeles with 3 bedrooms, 2 bathrooms, near schools, and within a $1.4M budget.
 ============================================================
                 🏡 Property Recommendations 🏡                
