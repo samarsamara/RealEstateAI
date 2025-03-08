@@ -1,4 +1,4 @@
-What kind of property are you looking for in Los Angeles?
+AI: What kind of property are you looking for in Los Angeles?
 Input Prompt: I want an apartment with 2 bedroom near the Hollywood Hills, with heating and parking lot.
 AI: What is your budget? How many bathrooms do you need?
 You: 1 bathroom
