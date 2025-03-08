@@ -96,19 +96,18 @@ langchain
 
 ## 🎯 Example Usage
 
-1. Start the application and access the Gradio interface
+1. Start the application.
 2. Enter your preferences in natural language:
-   - "I'm looking for a 3-bedroom house with a pool near downtown"
-   - "Show me modern apartments with city views under $500,000"
-3. View personalized recommendations with property descriptions and images
+   - "I'm looking for a 3-bedroom house in Beverly Hills with budget 1m"
+   - "I want a condo with 2-bedroom and one bathroom apartment in los angeles with a budget of $500K"
+3. View personalized recommendations with property descriptions.
 
 
 
-## App interaction:
+## App Architecture:
 
-![alt text](image.png)
+![Alt Text](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPO_NAME/main/path-to-image.jpg)
 
-![alt text](image-1.png)
 
 
 
