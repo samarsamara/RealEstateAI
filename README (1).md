@@ -44,28 +44,30 @@ cd RealEstateAI
 pip install -r requirements.txt
 ```
 
-3. Configure your OpenAI API key:
-```python
-export OPENAI_API_KEY='your-api-key-here'
-# or
-os.environ['OPENAI_API_KEY'] = 'your-api-key-here'
-```
+3. Create ".env" file that contains your OpenAI API key:
+   ```
+   API_KEY=<your_api_key>
+   ``` 
 
 ### Running the Application
 
-2. Launch the application:
+Launch the application:
 ```bash
 python RealEstateAI.py
 ```
 
 ## 📦 Project Structure
 ```
-Real-Estate-AI-Agent/
-├── dataset/
-│   ├── RealEstateListingsDatasetv2.csv
-│   └── RealEstateListingsDatasetv3.json
-├── app.ipynb                 # Main application notebook
-├── generate_dataset.ipynb    # Dataset generation script
+RealEstateAI/
+├── Data/
+│   ├── los_angeles.csv
+├── Code/
+│   ├── RealEstateAI.py      # Main application script
+│   ├── create_VDBs.py       # create the vector data base
+│   ├── create_embeddings.py       # create the embedding for each data raw
+│   ├── exploring_agent.py      # Agentic RAG
+│   ├── interacting_agent.py    # conversation manager 
+│   ├── recommendation_agent.py       # return the final recommendation for the user
 ├── requirements.txt          # Project dependencies
 └── README.md                # Project documentation
 ```
@@ -74,30 +76,23 @@ Real-Estate-AI-Agent/
 
 ### Dependencies
 ```
-langchain==0.0.305
-openai==0.28.1
-pydantic>=1.10.12
-pytest>=7.4.0
-sentence-transformers>=2.2.0
-transformers>=4.31.0
-chromadb==0.4.12
-jupyter==1.0.0
-tiktoken==0.4.0
+qdrant-client
+tiktoken
+numpy
+pandas
+torch
+transformers
+faiss-cpu
+sentence-transformers
+tqdm
+langchain_openai
+json
+os
+langchain
+
 ```
 
-### Data Model
-The system uses Pydantic models for structured data handling:
-```python
-class RealEstateListing(BaseModel):
-    home_type: str
-    price: int
-    bedrooms: int
-    bathrooms: float
-    house_size: int
-    description: str
-    neighborhood: str
-    neighborhood_description: Optional[str]
-```
+
 
 ## 🎯 Example Usage
 
