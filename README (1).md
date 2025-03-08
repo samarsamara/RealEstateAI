@@ -117,4 +117,5 @@ langchain
 
 ## Notes :
 1. Our AI agent exclusively **searches for properties in Los Angeles**, requiring users to input their **budget, number of bedrooms, and number of bathrooms** as mandatory criteria.
+2. Link for the embedded data : https://drive.google.com/drive/folders/1bsPUZ-zUZCfAebIkm2s_D-fPxOXQSVx9?usp=sharing.
    
