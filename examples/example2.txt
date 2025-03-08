@@ -1,9 +1,11 @@
 What kind of property are you looking for in Los Angeles?
-I want an apartment with 2 bedroom near the Hollywood Hills, with heating and parking lot.
+Input Prompt: I want an apartment with 2 bedroom near the Hollywood Hills, with heating and parking lot.
 AI: What is your budget? How many bathrooms do you need?
 You: 1 bathroom
 AI: What is your budget?
 You: up to $1.5M
+
+OutPut:
 AI: 2-bedroom, 1-bathroom, up to $1.5M, near Hollywood Hills. Searching now.
 ============================================================
                 🏡 Property Recommendations 🏡                
