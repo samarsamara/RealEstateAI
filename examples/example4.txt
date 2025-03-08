@@ -1,0 +1,38 @@
+What kind of property are you looking for in Los Angeles?
+Show me apartments that contain 3 bedrooms (i have kids) and two bathrooms, i want it near schools.
+AI: What is your budget?
+You: $1.4M
+AI: Got it! Searching for apartments in Los Angeles with 3 bedrooms, 2 bathrooms, near schools, and within a $1.4M budget.
+============================================================
+                🏡 Property Recommendations 🏡                
+============================================================
+
+🔹 Rank: 1 | Score: 9
+------------------------------------------------------------
+🏠 Description: Found at 1522 Amherst Ave APT 401, this 3-bedroom, 3-bathroom condo was built in 2005 and sold for $1,000,000. Highlights include central heating, central air cooling, gated and controlled entrance parking, and appliances such as a dishwasher, disposal, microwave, refrigerator, range, range hood, washer, and dryer. Nearby schools include an elementary school (score: 5.0, distance: 0.3 miles) and a high school (score: 6.0, distance: 0.4 miles).
+📝 Explanation: This property is ranked first due to its excellent balance of affordability, modern amenities, and proximity to schools within walking distance, making it a highly desirable option.
+============================================================
+
+🔹 Rank: 2 | Score: 8
+------------------------------------------------------------
+🏠 Description: Located at 6813 Converse Ave, this 4-bedroom, 3-bathroom apartment was built in 1926 and sold for $1,380,000. It features forced air and gas heating, other cooling, and parking that includes an attached garage and covered options. Nearby schools include an elementary school (score: 4.0, distance: 0.4 miles), a middle school (score: 3.0, distance: 0.5 miles), and a high school (score: 8.0, distance: 0.6 miles).
+📝 Explanation: This property offers more bedrooms but is slightly more expensive and has lower-rated nearby schools for younger children, which led to its second-place ranking.
+============================================================
+
+🔹 Rank: 3 | Score: 8
+------------------------------------------------------------
+🏠 Description: At 1861 Veteran Ave PENTHOUSE 2, this 3-bedroom, 3-bathroom condo was built in 2002 and sold for $1,136,000. It offers central heating, central air cooling, assigned parking, and appliances including a dishwasher. Additional features include an inside laundry room. Nearby schools include an elementary school (score: 9.0, distance: 0.6 miles) and a high school (score: 6.0, distance: 1.4 miles).
+📝 Explanation: While this property has excellent nearby school ratings and modern features, its higher price and slightly less convenient location compared to rank_2 placed it in third.
+============================================================
+
+🔹 Rank: 4 | Score: 5
+------------------------------------------------------------
+🏠 Description: Situated at 1818 Pelham Ave APT 303, this 2-bedroom, 3-bathroom condo was built in 1974 and sold for $1,058,000. Features include forced air heating, central cooling, a detached garage and covered parking, and appliances like a dishwasher, dryer, freezer, microwave, range/oven, refrigerator, and washer. Nearby schools include an elementary school (score: 9.0, distance: 0.3 miles) and a high school (score: 6.0, distance: 1.9 miles).
+📝 Explanation: The smaller number of bedrooms and older construction reduced its appeal, despite its proximity to a highly rated elementary school.
+============================================================
+
+🔹 Rank: 5 | Score: 3
+------------------------------------------------------------
+🏠 Description: Located at 10777 Wilshire Blvd #204, this 1-bedroom, 3-bathroom condo was built in 2018 and sold for $1,430,000. It includes central heating, central air cooling, valet and underground parking, and appliances such as a microwave and refrigerator. Nearby schools include an elementary school (score: 9.0, distance: 0.7 miles) and a high school (score: 6.0, distance: 1.7 miles).
+📝 Explanation: Despite its modern construction, the high price and limited bedroom count made this property the least desirable option for the user's preferences.
+============================================================
