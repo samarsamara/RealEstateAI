@@ -1,5 +1,10 @@
-# RealEstateAI: Your Intelligent Real Estate Assistant 🏠
-
+<h1 align="center"> RealEstateAI: Your Intelligent Real Estate Assistant 🏠 </h1>
+<p align="center">
+  Samar Samara, Kinan ibraheem, Rawan Badarneh
+  <p align="center">
+    Technion
+  </p>
+</p>
 
 RealEstateAI is an intelligent real estate search assistant that helps users find properties that match their specific needs using AI-driven recommendations. By analyzing market data, location trends, and user preferences, RealEstateAI provides personalized property suggestions and insights to optimize real estate decisions.
 
