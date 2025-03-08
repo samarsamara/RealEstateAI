@@ -10,3 +10,4 @@ tqdm
 langchain_openai
 json
 os
+langchain
