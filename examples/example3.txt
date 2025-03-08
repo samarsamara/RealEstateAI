@@ -1,5 +1,7 @@
-What kind of property are you looking for in Los Angeles?
-I want a condo with 2-bedroom and one bathroom apartment in West Los Angeles with a budget of $750K.
+AI: What kind of property are you looking for in Los Angeles?
+Input Prompt: I want a condo with 2-bedroom and one bathroom apartment in West Los Angeles with a budget of $750K.
+
+OutPut:
 AI: Searching for a condo with 2 bedrooms and 1 bathroom in West Los Angeles within a $750K budget.
 ============================================================
                 🏡 Property Recommendations 🏡                
