@@ -1,0 +1,40 @@
+What kind of property are you looking for in Los Angeles?
+I want an apartment with 2 bedroom near the Hollywood Hills, with heating and parking lot.
+AI: What is your budget? How many bathrooms do you need?
+You: 1 bathroom
+AI: What is your budget?
+You: up to $1.5M
+AI: 2-bedroom, 1-bathroom, up to $1.5M, near Hollywood Hills. Searching now.
+============================================================
+                🏡 Property Recommendations 🏡                
+============================================================
+
+🔹 Rank: 1 | Score: 9
+------------------------------------------------------------
+🏠 Description: A single-family home located at 6443 Ivarene Ave in the Hollywood Hills neighborhood, sold for $1,500,000. Built in 1951, it offers 2 bedrooms, 1 bathroom, central heating and cooling, and features parking options such as a driveway and garage. Elementary school is 0.7 miles away with a score of 6, middle school is 1.3 miles away with a score of 3, and high school is 1.0 miles away with a score of 6. Laundry is located inside the house in a dedicated laundry room. ZIP code: 90068.
+📝 Explanation: This property is ranked first due to its convenient school proximity, indoor laundry room, and central heating and cooling. It strikes a strong balance of amenities, location, and value.
+============================================================
+
+🔹 Rank: 2 | Score: 8
+------------------------------------------------------------
+🏠 Description: A single-family home located at 2235 Sunset Crest Dr in the Hollywood Hills neighborhood, sold for $1,500,000. Built in 1958, it includes 2 bedrooms, 2 bathrooms, central heating and cooling, and a two-door garage for parking. Elementary school is 0.5 miles away with a score of 9, middle school is 3.5 miles away with a score of 3, and high school is 2.6 miles away with a score of 7. Laundry is available in the garage. Appliances include a dishwasher. ZIP code: 90046.
+📝 Explanation: Ranked second for its excellent elementary school proximity and higher school scores, this property slightly falls behind due to its garage laundry setup and greater distance from middle and high schools.
+============================================================
+
+🔹 Rank: 3 | Score: 8
+------------------------------------------------------------
+🏠 Description: A single-family home located at 2136 Sunset Crest Dr in the Hollywood Hills neighborhood, sold for $1,450,000. Built in 1960, it consists of 2 bedrooms, 3 bathrooms, central heating and cooling, and parking options include a driveway and garage. Elementary school is 0.7 miles away with a score of 9, middle school is 3.6 miles away with a score of 3, and high school is 2.6 miles away with a score of 7. Laundry is located inside the house. Appliances include a dishwasher, refrigerator, washer, and dryer. ZIP code: 90046.
+📝 Explanation: This property is ranked third due to its strong amenities, including indoor laundry and additional appliances, but it is slightly less competitive due to its higher price and similar school proximity as rank 2.
+============================================================
+
+🔹 Rank: 4 | Score: 7
+------------------------------------------------------------
+🏠 Description: A single-family home located at 5746 Cazaux Dr in the Hollywood Hills neighborhood, sold for $1,450,000. Built in 1925, it offers 2 bedrooms, 2 bathrooms, central heating, no specified cooling system, and a garage for parking. Elementary school is 0.7 miles away with a score of 6, middle school is 1.3 miles away with a score of 3, and high school is 1.9 miles away with a score of 6. Appliances include a dishwasher, disposal, refrigerator, and dryer. ZIP code: 90068.
+📝 Explanation: Ranked fourth due to the lack of a specified cooling system and lower school scores compared to higher-ranked properties. However, it offers good amenities and proximity to schools.
+============================================================
+
+🔹 Rank: 5 | Score: 6
+------------------------------------------------------------
+🏠 Description: A single-family home located at 3856 Broadlawn Dr in the Hollywood Hills neighborhood, sold for $1,500,000. Built in 1926, it features 3 bedrooms, 2 bathrooms, central heating and dual cooling, and parking options include a driveway and two-door garage. Elementary school is 0.8 miles away with a score of 8, middle school is 3.0 miles away with a score of 3, and high school is 2.3 miles away with a score of 6. Laundry is located in the kitchen. Appliances include a dishwasher, disposal, microwave, refrigerator, washer, and dryer. ZIP code: 90068.
+📝 Explanation: This property is ranked last due to its less convenient laundry setup in the kitchen and greater distance to schools compared to higher-ranked properties. While it has strong amenities, the overall combination of factors makes it less desirable.
+============================================================
