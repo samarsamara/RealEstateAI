@@ -10,6 +10,7 @@ class InteractingAgent:
             openai_api_version="2023-05-15",
             model="gpt-4o",
         )
+        #the mandatory fields the client must enter in it's query
         self.required_fields = ["budget", "bedrooms", "bathrooms"]
 
     def chat_with_user(self, user_query):
