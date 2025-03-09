@@ -6,6 +6,9 @@ from qdrant_client.http.exceptions import ResponseHandlingException
 import pandas as pd
 
 def create_client(collection_name):
+    """
+    Connecting to Qdrant 
+    """
     qdrant_client = QdrantClient(
         url="https://00408636-7100-4931-aaec-7626a00437cc.eu-central-1-0.aws.cloud.qdrant.io:6333",
         api_key="DU1L3IyEuy5m3_6pFj4UaIMao6kAiVc5CgLYrGRpyZ5ClXLMIPRxFg",
@@ -25,6 +28,9 @@ def format_key_value_text(row):
     return ", ".join([f"{col}: {row[col]}" for col in row.index])
 
 def prepare_vectors(df, embeddings):
+    """
+    Prepare vectors to create the vector database
+    """
     points = [
         PointStruct(
             id=row['index'],  # Use the index column as the ID
