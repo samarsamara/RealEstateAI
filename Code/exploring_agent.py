@@ -18,6 +18,9 @@ class ExploringAgent:
         )
 
     def format_query(self, criteria: dict):
+        """
+        Converts a dictionary into a comma-separated key-value string, replacing 'unknown', 'none', and 'nan' with an empty string.
+        """
         filtered_values=[]
         for key, value in criteria.items():
             if str(value).lower() in ["unknown", "none", "nan"]:
@@ -26,6 +29,10 @@ class ExploringAgent:
         return ", ".join(filtered_values)
 
     def search_estates(self, response, top_k=5):
+        """
+        This function does the search for properties from the VDB for a given
+        query and returns the top 5 matching properties
+        """
         query_text = self.format_query(response)
         query_embedding = get_azure_embeddings(query_text, self.api_key)
 
@@ -72,5 +79,8 @@ class ExploringAgent:
         return descriptions
 
     def get_estates_list(self, response, top_k=5):
+        """
+        This function returns the description of the estates returned from the search
+        """
         retrieved_estates = self.search_estates(response, top_k)
         return self.generate_descriptions(retrieved_estates)
