@@ -43,7 +43,7 @@ if __name__ == "__main__":
     df = pd.read_csv("los_angeles.csv")
 
     df = df.drop(['Address', 'Zip'], axis=1)
-
+    #applying transformations to the data
     df['Heating'] = df['Heating'].fillna('No')
     df['Cooling'] = df['Cooling'].fillna('No')
     df['Parking'] = df['Parking'].fillna('No')
